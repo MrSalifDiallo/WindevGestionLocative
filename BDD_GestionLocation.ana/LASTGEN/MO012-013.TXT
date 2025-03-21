@@ -1,0 +1,3 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+PhotoAppartements		TAR	84	nouvelle taille enregistrement : 84
+PhotoAppartements	NomAppartement	RUB+		NomAppartement est une nouvelle clé

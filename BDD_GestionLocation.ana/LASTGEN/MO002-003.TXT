@@ -1,0 +1,4 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+PaiementLoyer		TAR	85	nouvelle taille enregistrement : 85
+PaiementLoyer	DatePaiement	CNW	Date (aaaammjj)$Monétaire	la rubrique DatePaiement a pour nouveau type Date (aaaammjj)
+PaiementLoyer	MoisConcerne	RDP-		

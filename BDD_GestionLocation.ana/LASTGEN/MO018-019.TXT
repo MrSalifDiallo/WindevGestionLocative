@@ -1,0 +1,3 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+PaiementLoyer		TAR	95	nouvelle taille enregistrement : 95
+PaiementLoyer	TypePaiement	RUB+		TypePaiement est une nouvelle rubrique

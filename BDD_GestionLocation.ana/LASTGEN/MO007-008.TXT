@@ -1,0 +1,3 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Proprietaire		TAR	157	nouvelle taille enregistrement : 157
+Proprietaire	Sexe	TAI+	1	la rubrique Sexe a comme nouvelle taille 9 au lieu de 8

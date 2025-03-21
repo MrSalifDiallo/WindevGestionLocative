@@ -1,0 +1,12 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Proprietaire		NFI		nouveau fichier
+Appartement		NFI		nouveau fichier
+PhotoAppartements		NFI		nouveau fichier
+Locataire		NFI		nouveau fichier
+ContratLocation		NFI		nouveau fichier
+PaiementLoyer		NFI		nouveau fichier
+Contrainte_Proprietaire_Appartement		NWL	Proprietaire (IDProprietaire) et Appartement (IDProprietaire)	Nouvelle liaison entre les fichiers Proprietaire (IDProprietaire) et Appartement (IDProprietaire)
+Contrainte_PhotoAppartements_Appartement		NWL	Appartement (IDAppartement) et PhotoAppartements (IDAppartement)	Nouvelle liaison entre les fichiers Appartement (IDAppartement) et PhotoAppartements (IDAppartement)
+Contrainte_Appartement_ContratLocation		NWL	Appartement (IDAppartement) et ContratLocation (IDAppartement)	Nouvelle liaison entre les fichiers Appartement (IDAppartement) et ContratLocation (IDAppartement)
+Contrainte_Locataire_ContratLocation		NWL	Locataire (IDLocataire) et ContratLocation (IDLocataire)	Nouvelle liaison entre les fichiers Locataire (IDLocataire) et ContratLocation (IDLocataire)
+Contrainte_ContratLocation_PaiementLoyer		NWL	ContratLocation (IDContratLocation) et PaiementLoyer (IDContratLocation)	Nouvelle liaison entre les fichiers ContratLocation (IDContratLocation) et PaiementLoyer (IDContratLocation)

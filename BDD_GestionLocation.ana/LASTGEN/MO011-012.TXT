@@ -1,0 +1,2 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+Contrainte_Proprietaire_Appartement		MCL	1,n->0,n	

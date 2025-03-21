@@ -1,0 +1,3 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Locataire		TAR	157	nouvelle taille enregistrement : 157
+Locataire	Sexe	RUB+		Sexe est une nouvelle rubrique
